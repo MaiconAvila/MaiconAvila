@@ -8,8 +8,8 @@
 <hr/>
 <h3 align="left">My Statistics:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats-maiconavila.vercel.app/api?username=MaiconAvila&show_icons=true&theme=dracula" alt="Maicon Avila's GitHub Stats" width="680"/>
-  <img align="center" src="https://github-readme-stats-maiconavila.vercel.app/api/top-langs/?username=MaiconAvila&theme=dracula" alt="Maicon Avila's Top Languages"/>
+  <img align="center" src="https://github-readme-stats-maiconavila.vercel.app/api?username=MaiconAvila&show_icons=true&theme=dracula" alt="Maicon Avila's GitHub Stats" height="170"/>
+  <img align="center" src="https://github-readme-stats-maiconavila.vercel.app/api/top-langs/?username=MaiconAvila&theme=dracula" alt="Maicon Avila's Top Languages" height="170"/>
 </p>
 <hr/>
 <h3 align="left">💻 My Skills:</h3>
